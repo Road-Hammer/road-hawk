@@ -190,6 +190,9 @@ NEPA, USA
 
 
 
+📫 Contact: [office@thatdambbs.com](mailto:office@thatdambbs.com)  
+
+🔒 Security bugs? Check [SECURITY.md](./SECURITY.md)
 
 
 
@@ -201,8 +204,4 @@ This is a private development repository for internal use only. Unauthorized acc
 
 
 
-
-
-
-/
 
