@@ -55,8 +55,9 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [our project issues](by creating New Issue). All
-complaints will be reviewed and investigated and will result in a response that
+reported by contacting the project team leader at: office@thatdambbs.com or by creating a ** NEW ** Issue ticket. 
+
+All complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances.
 
 Project maintainers and contributors who do not follow or enforce the Code of Conduct in good
